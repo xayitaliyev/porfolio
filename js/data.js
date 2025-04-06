@@ -19,5 +19,11 @@ export default [
     github: "https://github.com/xayitaliyev/v3-5v",
     vercel: "https://v3-5v.vercel.app/",
   },
+  {
+    title: "perfium Card",
+    github: "https://github.com/xayitaliyev/vazifa6dars",
+    vercel: "https://vazifa6dars.vercel.app/",
+  },
+ 
  
 ];
